@@ -1,2 +1,2 @@
 # python_learning
-here, I will b sharing my python journey
+This repo contains my personal python projects from my 100_days of learnig python with Angela.
